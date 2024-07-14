@@ -4,7 +4,4 @@ permalink: /cv/
 layout: page
 ---
 
-## Curriculum Vitae
-
-
-[Click here to download my CV (PDF)](/files/Onsel Gurel Bayrali_CV_July.pdf)
+<a href="/files/your-cv-file-name.pdf" target="_blank">Click here to download my CV (PDF)</a>
