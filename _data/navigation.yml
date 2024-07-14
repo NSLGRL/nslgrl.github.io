@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "/files/Onsel Gurel Bayrali_CV_July.pdf"
+    url: "/cv/"
     
   - title: "Research"
     url: /research/
