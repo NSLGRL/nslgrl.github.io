@@ -1,12 +1,7 @@
----
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="teaching-experience">
+  <h2>{{ page.title }}</h2>
+  <p>{{ page.type }}, {{ page.venue }}, {{ page.display_date }}</p>
+  <div class="description">
+    {{ content }}
+  </div>
+</div>
