@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Political Science Department at SUNY Binghamton. My research focuses on fiscal federalism, intergovernmental relations, crisis management, and party systems. I am particularly interested in how party systems influence vertical policy coordination between federal and state units at the local level during the COVID-19 pandemic.
+I am a PhD candidate in the Political Science Department at SUNY Binghamton. My research revolves around fiscal federalism, intergovernmental relations, crisis management, and party systems. I am particularly interested in how party systems influence vertical policy coordination between federal and state units at the local level during the COVID-19 pandemic.
 <p style="text-indent: 20px;">
 My dissertation is grounded in second-generation fiscal federalism theory, which posits that elected policymakers prioritize their electoral concerns over altruistic motivations when setting policy strategies. My research examines how sub-national party systems encourage policymakers to share policy risks rather than shift blame. The central argument is that as party systems become more integrated, policymakers' efforts to protect or enhance their electoral positions become interconnected, leading them to coordinate their policy strategies to minimize the risk of policy failure.
 <p style="text-indent: 20px;">
