@@ -15,5 +15,5 @@ My dissertation is grounded in second-generation fiscal federalism theory, which
 </p>
 
 <p style="text-indent: 20px;">
-In this project, I develop a straightforward model to reveal policymakers' strategies and calibrate it using dynamic panel analysis. I incorporate case studies from African decentralized systems to strengthen the panel models, focusing on Nigeria and South Africa.
+In this project, I develop a simple model to reveal policymakers' strategies and calibrate it using dynamic panel analysis. I incorporate case studies from African decentralized systems to strengthen the panel models, focusing on Nigeria and South Africa.
 
