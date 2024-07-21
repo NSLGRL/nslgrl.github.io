@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Why Federal Incumbents Avoid Blame in Disaster Management: The Role of Integrated Party Systems in Federal COVID-19 Policies
+
 
 <div>
   <button onclick="toggleAbstract()" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Abstract</button>
