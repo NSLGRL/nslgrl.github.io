@@ -12,5 +12,10 @@ permalink: /research/
 </details>
 
 
+<a href="https://www.nature.com/articles/s41597-022-01437-9" target="_blank">Protective Policy Index (PPI) global dataset of origins and stringency of COVID 19 mitigation policies</a>
 
+<details>
+<summary>Abstract</summary>
+<p>We have developed and made accessible for multidisciplinary audiences a unique global dataset of the behavior of political actors during the COVID-19 pandemic as measured by their policy-making efforts to protect the public. The dataset presents consistently coded cross-national data at subnational and national levels on the daily level of stringency of public health policies by level of government overall and within specific policy categories and reports branches of government that adopted these policies. The data on these public mandates of protective behaviors is collected from media announcements and government publications. The dataset allows comparisons of governments’ policy efforts and timing worldwide and can provide information on policy determinants of pandemic outcomes–both societal and possibly medical.</p>
+</details>
 
