@@ -1,6 +1,12 @@
-<nav>
-  <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="teaching.md">Teaching</a></li>
-  </ul>
-</nav>
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
