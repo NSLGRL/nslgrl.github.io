@@ -1,9 +1,6 @@
 ---
 title: "Data Analysis for Political Science"
-collection: teaching
-venue: "Binghamton University, The Department of Political Science"
-date: 2023-06-01
-
+venue: "Binghamton University, The Department of Political Science, Spring 2023"
 ---
 
 This course introduces techniques for collecting, analyzing, and utilizing extensive data for social science inferences. The ultimate goal of this class is to improve students’ statistical and programming skills. For this purpose, we will cover recent developments in machine learning techniques and their implementation in political science and public policy. 
