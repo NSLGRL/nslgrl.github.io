@@ -1,6 +1,5 @@
 ---
 title: "Institutional Analysis"
-collection: teaching
 venue: "Binghamton University, The Department of Political Science, Fall 2024"
 ---
 
