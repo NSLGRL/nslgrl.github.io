@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Data Analysis for Political Science"
 collection: teaching
 type: "Workshop"
 venue: "University 1, Department"
