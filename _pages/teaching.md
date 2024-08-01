@@ -10,7 +10,7 @@ author_profile: false
 
 This seminar introduces students to the theoretical framework of new institutionalism, focusing on rational choice institutionalism, historical institutionalism, and sociological institutionalism. We will review key literature on institutional design, stability, change, and institutions' social and political consequences. The course aims to familiarize students with essential texts and recent publications in these areas and to help them incorporate insights from the readings into their research.  
 
-## [<a href="https://github.com/username/repository/raw/main/pages/data_analysis_syllabus.pdf" target="_blank">Data Analysis for Political Science</a>](https://github.com/username/repository/blob/main/pages/data_analysis_syllabus.pdf)
+## [<a href="https://github.com/nslgrl/repository/raw/main/pages/data_analysis_syllabus.pdf" target="_blank">Data Analysis for Political Science</a>](https://github.com/username/repository/blob/main/pages/data_analysis_syllabus.pdf)
 **Binghamton University, The Department of Political Science, Spring 2023**
 
 This course introduces techniques for collecting, analyzing, and utilizing extensive data for social science inferences. The ultimate goal of this class is to improve students’ statistical and programming skills. For this purpose, we will cover recent developments in machine learning techniques and their implementation in political science and public policy. 
