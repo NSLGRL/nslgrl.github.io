@@ -52,5 +52,14 @@ theoretical argument finds empirical support with global policy origins data in 
 COVID-19 Protective Policy Index dataset. </p>
 </details> <br> <br>
 
+Party System Dynamics and Intergovernmental Collaboration: Exploring the Impact of Regional Parties on COVID-19 Policies in Federal Systems
+<details>
+<summary>Abstract</summary>
+<p>Even though crisis management is a local public good, the limited resource capacity of local governments forces federal authorities to step into state-level policy-making, which requires strong inter-governmental cooperation during crisis management. However, this policy necessity does not mean that elected policy authorities from state and federal units are eager to collaborate because their electoral incentives may diversify, which may cause policy interruption at the state level. 
+This paper argues that the level of integrated party system influences incumbents’ electoral incentives, which they use to set their policy preferences. Specifically, error-creator party systems, represented by an increase in the electoral power of regional parties at the sub-national unit, disrupt the policy linkage between federal and state incumbents, creating policy inefficiencies regarding policy authorities’ decisiveness during the crisis. Conversely, error-solver party systems, also called integrated party systems, minimize electoral inefficiencies among government units and encourage them to collaborate.
+A novel dataset construes this argument, the Public Health Protective Policy Index (PPI), produced by the Binghamton University Covid Lab. The dataset focuses on intergovernmental collaboration during the pre-vaccine period of the pandemic in 11 federal countries. Results pointed out that as error creators, regional parties disrupt the linkage between federal and sub-national political authorities, causing policy inefficiencies at the sub-national level of crisis management during the pandemic.  
+ </p>
+</details> <br> <br>
+
 
 
