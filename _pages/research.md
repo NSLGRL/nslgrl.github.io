@@ -18,7 +18,7 @@ author_profile: false
 <details>
 <summary>Abstract</summary>
 <p>We have developed and made accessible for multidisciplinary audiences a unique global dataset of the behavior of political actors during the COVID-19 pandemic as measured by their policy-making efforts to protect the public. The dataset presents consistently coded cross-national data at subnational and national levels on the daily level of stringency of public health policies by level of government overall and within specific policy categories and reports branches of government that adopted these policies. The data on these public mandates of protective behaviors is collected from media announcements and government publications. The dataset allows comparisons of governments’ policy efforts and timing worldwide and can provide information on policy determinants of pandemic outcomes–both societal and possibly medical.</p>
-</details>
+</details> <br> <br>
 
 
 COVID-19 Pandemic in Somalia, South Africa, and Zimbabwe: Why Do Leaders Love COVID-19 Precautions? (Forthcoming)
@@ -34,9 +34,9 @@ the effectiveness of measures implemented in democratic and authoritarian
 contexts. Our analysis reveals distinct patterns: while South Africa exhibited
 stricter precautions, political dynamics in Somalia and Zimbabwe allowed for
 more aggressive measures despite lower policy effectiveness. We attribute these
-variations to differences in political accountability, media freedom, and judicial
-independence. Our findings highlight the critical role of political constraints in </p>
-</details>
+variations to political accountability, media freedom, and judicial
+independence differences. Our findings highlight the critical role of political constraints in </p>
+</details> <br> <br>
 
 
 
