@@ -17,6 +17,3 @@ This course introduces techniques for collecting, analyzing, and utilizing exten
 We will use R, an open-source statistical computing environment. Since this course will introduce the basics of R programming, no prior exposure to the statistical programming language is required. Additionally, this class will provide an overview of summarizing, visualizing, and creating reproducible documents in R. Then, students in this course will learn the basics of supervised and unsupervised learning techniques and their empirical implementations in political research.
 
 
-
-
-
