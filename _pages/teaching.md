@@ -1,12 +1,12 @@
 ---
-layout: single
+layout: default
 title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
 
 ## <a href="/files/institutional_analysis_syllabus.pdf" target="_blank"> Institutional Analysis</a>
-**Binghamton University, The Department of Political Science, Spring 2024**
+**Binghamton University, The Department of Political Science, Spring 2024** <br><br>
 This seminar introduces students to the theoretical framework of new institutionalism, focusing on rational choice institutionalism, historical institutionalism, and sociological institutionalism. We will review key literature on institutional design, stability, change, and institutions' social and political consequences. The course aims to familiarize students with essential texts and recent publications in these areas and to help them incorporate insights from the readings into their research.  
 
 ## <a href="/files/data_analysis_syllabus.pdf" target="_blank">Data Analysis for Political Science</a>
