@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Research
+title: 
 permalink: /research/
 author_profile: false
 ---
@@ -21,7 +21,7 @@ author_profile: false
 </details> <br> <br>
 
 
-COVID-19 Pandemic in Somalia, South Africa, and Zimbabwe: Why Do Leaders Love COVID-19 Precautions? (Forthcoming)
+COVID-19 Pandemic in Somalia, South Africa, and Zimbabwe: Why Do Leaders Love COVID-19 Precautions? (Forthcoming) (with Abdinasir Jimale)
 <details>
 <summary>Abstract</summary>
 <p>The COVID-19 pandemic brought unprecedented challenges, prompting policymakers
@@ -36,6 +36,20 @@ stricter precautions, political dynamics in Somalia and Zimbabwe allowed for
 more aggressive measures despite lower policy effectiveness. We attribute these
 variations to political accountability, media freedom, and judicial
 independence differences. Our findings highlight the critical role of political constraints in </p>
+</details> <br> <br>
+
+### Selected Working Papers
+Relative Contributions of National and sub-national Governments to the Public Good of COVID-19 Non-Medical Interventions Policies: Institutional, Structural, and Medical Determinants (with Olga Shvetsova)
+
+<details>
+<summary>Abstract</summary>
+<p>In this essay, we establish with a global sample that policy production of Non-Medical
+Interventions (masking, lockdowns, school closures, etc.) during the COVID-19
+pandemic was not efficient. Furthermore, we theorize that one cause of such inefficiency
+was the Tragedy of the Commons situation among the political incumbents at national
+and sub-national levels over issuing these politically risky measures. This
+theoretical argument finds empirical support with global policy origins data in the
+COVID-19 Protective Policy Index dataset. </p>
 </details> <br> <br>
 
 
