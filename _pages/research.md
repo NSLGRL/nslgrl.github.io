@@ -10,7 +10,7 @@ author_profile: false
 <details>
 <summary>Abstract</summary>
 <p>This paper analyzes intergovernmental task sharing in combating the COVID-19 pandemic by focusing on the practices of the two largest African countries—Nigeria and South Africa. Nigeria is a constitutional federation; South Africa is a unitary country where the constitution delegates some public policies to subnational governments. Whether regional and national politicians were willing to collaborate during the pandemic depended on their calculus of the benefits and costs of sharing the political risks and the blame for imposing restrictive measures across jurisdictions. In Nigeria, federal authorities preferred to avoid risks, and subnational politicians became the primary actors who implemented restrictive policies and, thus, accepted the risks and blame. In South Africa, national authorities almost entirely took over the responsibility for pandemic policies. This paper argues that the partisan elite linkage, the saliency of federal politics at the subnational level, and the constitutional design framing the nexus of the regional- and national-level politics all mattered by creating distinctive incentives for politicians to take restrictive pandemic measures.</p>
-</details>
+</details> <br> <br>
 
 
 <a href="https://www.nature.com/articles/s41597-022-01437-9" target="_blank">Protective Policy Index (PPI) global dataset of origins and stringency of COVID 19 mitigation policies</a>
