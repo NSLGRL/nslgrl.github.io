@@ -1,6 +1,7 @@
 ---
 layout: single
 title: ""
+date:
 permalink: /teaching/
 author_profile: false
 ---
